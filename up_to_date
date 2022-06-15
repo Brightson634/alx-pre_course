@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-#Git pull request
-#Git check status
-=======
-#How to update filess in GitHub
-echo "GitHub commandline Interface"
-
->>>>>>> c555a48686920077fbc03cfd419f2ef7207eaccd
+git pull
